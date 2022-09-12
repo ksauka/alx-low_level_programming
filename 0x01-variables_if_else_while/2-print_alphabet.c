@@ -3,15 +3,15 @@
 #include <time.h>
 
 /**
- * main - Alphabet
+ * main - Entry point 
  *
  * Return: 0 Success
  */
 
 int main(void)
 {
-char low;
 
+char low;
 for (low = 'a'; low <= 'z'; low++)
 	putchar(low);
 	putchar('\n');
