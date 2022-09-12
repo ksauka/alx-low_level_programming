@@ -1,12 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/**
- * main -Positive anything is better than negative nothing
- *
- * Return: Always 0 
- */
 
+/**
+ * main - Entry point
+ *
+ *
+ *
+ * Return: Always 0
+ */
 
 int main(void)
 {
