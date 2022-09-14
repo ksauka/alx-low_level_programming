@@ -5,7 +5,7 @@
  *
  * Return: Void
  */
-void printAlpha(void)
+void print_alphabet(void)
 {
 	char i;
 

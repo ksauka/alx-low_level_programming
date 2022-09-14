@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	printAlpha();
+	print_alphabet();
 
 	return (0);
 
