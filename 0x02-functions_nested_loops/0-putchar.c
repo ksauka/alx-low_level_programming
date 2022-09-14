@@ -1,15 +1,23 @@
+#include <unistd.h>
 #include "main.h"
 
 /**
- * printAlpha - prints the alphabet in lowercase
+ * main - _putchar, followed by a new line
  *
- * Return: Void
+ *
+ * Return: 0
  */
-void printAlpha(void)
-{
-	char i;
 
-	for (i = 'a'; i <= 'z'; i++)
-		_putchar(i);
+int main(void)
+{
+	char word[8] = "_putchar";
+	int i;
+
+	for (i = 0; i < 9; i++)
+		_putchar(word[i]);
 	_putchar('\n');
+
+
+	return (0);
+
 }
