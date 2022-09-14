@@ -2,7 +2,7 @@
 
 /**
  * printAlpha - prints the alphabet in lowercase
- *
+ * Description: Check print alpha
  * Return: Void
  */
 void print_alphabet(void)
