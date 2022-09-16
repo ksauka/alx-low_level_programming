@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * main -  function that does not print 2 and 4
+ * print_most_numbers -  Check description
+ * Description: a function that prints the number
+ * from 0-9
  *
  * Return: Alwas 0
  */
