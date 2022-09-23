@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_to_98 - Check coede 
+ * print_to_98 - Check coede
  * @n: A input integer
  * Description: function that prints all natural numbers
  * Return: Nothing
