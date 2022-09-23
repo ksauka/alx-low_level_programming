@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_sign - Check Holberton
+ * print_sign - Check code
  * @n: An input number
  * Description: Tohis function prints the sign of the number
  *

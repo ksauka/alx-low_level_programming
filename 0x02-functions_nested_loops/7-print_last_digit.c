@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_last_digit - Check Holberton
- * @r: An integer input
+ * print_last_digit - Check code 
+ * @r: An integer inpute
  * Description: This function prints the last digit of a number
  * Return: last digit of number r
  */
